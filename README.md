@@ -1,4 +1,4 @@
- ### Hi there 👋
+ ### Hi there 👋 Thanks for stopping by! 😎
 
 <!--
 **arthurgr/arthurgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Arthur Revelski, a Front End focused full stack developer with a passion for creativity and innovation.
+I thrive on building UI's that scale seamlessly, with robust functionality and optimal performance for ALL users.
+Excited to collaborate and bring your projects to life? Let's create something extraordinary together! 😃
 
 For your viewing pleasure, here's a sneak peek at tools I've worked with over the years:
 
