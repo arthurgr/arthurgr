@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My daily tech arsenal is ever-evolving, and it's tough to list everything I've used and worked with over the years. But, for your viewing pleasure, here's a sneak peek at my current lineup of tools:
+For your viewing pleasure, here's a sneak peek at tools I've worked with over the years:
 
 <div>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
