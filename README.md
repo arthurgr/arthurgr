@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arthur Revelski, a Front End focused full stack developer with a passion for creativity and innovation.
+I'm Arthur Revelski, a front end focused full stack developer with a passion for creativity and innovation.
 I thrive on building UI's that scale seamlessly, with robust functionality and optimal performance for ALL users.
 Excited to collaborate and bring your projects to life? Let's create something extraordinary together! 😃
 
