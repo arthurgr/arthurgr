@@ -71,9 +71,7 @@ Although its hard to list everything, here's a sneak peek at tools I've worked w
 </div>
 
 <div>
- <p>
-  ###http://arthur-revelski.com
- </p>
+ http://arthur-revelski.com
 </div>
 
 
