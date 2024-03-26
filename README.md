@@ -70,9 +70,9 @@ Although its hard to list everything, here's a sneak peek at tools I've worked w
 <img alt="Sketch" src="https://img.shields.io/badge/Sketch-%23F7B500?style=flat-square&logo=sketch&logoColor=%23fff" />
 </div>
 
-
-http://arthur-revelski.com/
-<a href="http://arthur-revelski.com/" target="_blank">http://arthur-revelski.com/</a>
+<div>
+ http://arthur-revelski.com
+</div>
 
 
 
