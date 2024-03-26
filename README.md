@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm Arthur Revelski, a front end focused full stack developer with a passion for creativity and innovation.
 I thrive on building UI's that scale seamlessly, with robust functionality and optimal performance for ALL users.
-Excited to collaborate and bring your projects to life? Let's create something extraordinary together! 😃
 
 Although its hard to list everything, here's a sneak peek at tools I've worked with over the years:
 
@@ -70,10 +69,8 @@ Although its hard to list everything, here's a sneak peek at tools I've worked w
 <img alt="Sketch" src="https://img.shields.io/badge/Sketch-%23F7B500?style=flat-square&logo=sketch&logoColor=%23fff" />
 </div>
 
-<div>
+ Excited to collaborate and bring your projects to life? Let's create something extraordinary together! 😃
+ 
  http://arthur-revelski.com
-</div>
-
-
 
 
