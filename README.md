@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Arthur Revelski, a front end focused full stack developer with a passion for creativity and innovation.
 I thrive on building UI's that scale seamlessly, with robust functionality and optimal performance for ALL users.
 
-Although its hard to list everything, here's a peek at tools I've worked with over the years (and who doesn't love colorful badges?!):
+"Although it's hard to list everything, here's a peek at the tools I've worked with over the years (and who doesn't love colorful badges?!)"
 
 <div>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
