@@ -69,8 +69,6 @@ Although it's hard to list everything, here's a peek at the tools I've worked wi
 <img alt="Sketch" src="https://img.shields.io/badge/Sketch-%23F7B500?style=flat-square&logo=sketch&logoColor=%23fff" />
 </div>
 
-
- 
- http://arthur-revelski.com
+Visit my personal website for my latest blog posts and updates on whats new: http://arthur-revelski.com
 
 
