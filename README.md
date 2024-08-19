@@ -70,5 +70,5 @@ Although it's hard to list everything, here's a peek at the tools I've worked wi
 </div>
 <br>
 Visit my personal website for my latest blog posts and updates on whats new: http://arthur-revelski.com
-
-
+<br>
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgr)](https://github.com/arthurgr/github-readme-stats)
