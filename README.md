@@ -68,7 +68,7 @@ Although it's hard to list everything, here's a peek at the tools I've worked wi
 <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat-square&logo=adobeillustrator&logoColor=%23fff" />
 <img alt="Sketch" src="https://img.shields.io/badge/Sketch-%23F7B500?style=flat-square&logo=sketch&logoColor=%23fff" />
 </div>
-
+<br><br>
 Visit my personal website for my latest blog posts and updates on whats new: http://arthur-revelski.com
 
 
