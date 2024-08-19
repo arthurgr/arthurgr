@@ -71,4 +71,4 @@ Although it's hard to list everything, here's a peek at the tools I've worked wi
 <br>
 Visit my personal website for my latest blog posts and updates on whats new: http://arthur-revelski.com
 <br>
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
