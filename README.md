@@ -71,8 +71,8 @@ Although it's hard to list everything, here's a peek at the tools I've worked wi
 <br>
 Visit my personal website for my latest blog posts and updates on whats new: http://arthur-revelski.com
 <br>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHURGR&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
 </a>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgr)
+
