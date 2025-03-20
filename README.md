@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Arthur Revelski, a full stack developer with a passion for creativity and innovation.
-I thrive at creating user interfaces that scale seamlessly with robust functionality and optimal performance for ALL users. When I'm not learning about software development, I enjoy trying out new recipes, exploring the Colorado mountains, and staying active. 
+I thrive at creating applications that scale seamlessly with robust functionality and optimal performance for ALL users. When I'm not learning about software development, I enjoy trying out new recipes, exploring the Colorado mountains, and staying active. 
 
 Although it's hard to list everything, here's a peek at the tools I've worked with over the years (and who doesn't love colorful badges?!)
 
