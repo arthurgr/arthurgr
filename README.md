@@ -23,14 +23,15 @@ Although it's hard to list everything, here's a peek at the tools I've worked wi
 <div>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="JavaScript (ES6+)" src="https://img.shields.io/badge/JavaScript%20(ES6%2B)-%23F7DF1E?style=flat-square&logo=javascript&logoColor=%23fff" />
+<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=%23fff" />
+<img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=%23fff" />
+<img alt="NextJs" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=%23fff" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=%23fff" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=%23fff" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="LESS" src="https://img.shields.io/badge/Less-%231D365D?style=flat-square&logo=less&logoColor=%23fff" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=%23fff" />
-<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=%23fff" />
-<img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=%23fff" />
-<img alt="NextJs" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=%23fff" />
 <img alt="ReactQuery" src="https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=reacttable&logoColor=fff" />
 <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=000" />
 <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-7CC631?style=flat-square&logoColor=%23fff" />
@@ -40,7 +41,6 @@ Although it's hard to list everything, here's a peek at the tools I've worked wi
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=fff" />
 <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=%23fff" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=%23fff" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=fff" />
 <img alt="Mock Service Worker" src="https://img.shields.io/badge/-MobX-FF7102?style=flat-square&logo=mobx&logoColor=fff" />
