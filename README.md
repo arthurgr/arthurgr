@@ -62,11 +62,15 @@ Back End:
 
 Ops:
 
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=%23fff" />
+<img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=%23fff" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=%23fff" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=%23fff" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="GitLab" src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=%23fff" />
 <img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&logoColor=%23fff" />
+<img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=%23fff" />
 
 </div>
 <br>
