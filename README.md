@@ -48,16 +48,22 @@ Front End:
 
 Back End:  
 
+<img alt="Java" src="https://img.shields.io/badge/-Java-43B7BA?style=flat-square&logoColor=%43B7BA" />
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=%23fff" />
+<img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=%23fff" />
+<img alt="Go" src="https://img.shields.io/badge/Go%20-00ADD8?style=flat-square&logo=go&logoColor=%23fff" />
 <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=%23fff" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=%23fff" />
+<img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=%23fff" />
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=%23fff" />
 <br/><br/>
 
 Ops:
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=%23fff" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="GitLab" src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=%23fff" />
 <img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&logoColor=%23fff" />
