@@ -51,7 +51,9 @@ Back End:
 <img alt="Java" src="https://img.shields.io/badge/-Java-43B7BA?style=flat-square&logoColor=%43B7BA" />
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=%23fff" />
 <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=%23fff" />
+<img alt="JPA" src="https://img.shields.io/badge/-JPA-80ea6e?style=flat-square&logoColor=%23fff" />
 <img alt="Go" src="https://img.shields.io/badge/Go%20-00ADD8?style=flat-square&logo=go&logoColor=%23fff" />
+<img alt="GORM" src="https://img.shields.io/badge/-GORM-38b6ff?style=flat-square&logoColor=%23fff" />
 <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=%23fff" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
