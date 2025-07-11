@@ -20,7 +20,7 @@ I thrive at creating applications that scale seamlessly with robust functionalit
 
 Visit my personal website for my latest blog posts and updates on whats new: http://arthur-revelski.com
 
-Although it’s hard to list everything, here’s a peek at the tools and technologies I love working with (and who doesn’t love colorful badges?!)
+Although it’s hard to list everything, here’s a peek at the tools and technologies I love working with:
 
 <div>
 
