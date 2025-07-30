@@ -23,9 +23,6 @@ Visit my personal website for my latest blog posts and updates on whats new: htt
 Although it’s hard to list everything, here’s a peek at the tools and technologies I love working with:
 
 <div>
-
-Front End:
-
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=%23fff" />
 <img alt="NextJs" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=%23fff" />
@@ -44,10 +41,6 @@ Front End:
 <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-%23757575?style=flat-square&logo=materialdesign&logoColor=%23fff" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=%23fff" />
 <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat-square&logo=adobeillustrator&logoColor=%23fff" />
-<br/><br/>
-
-Back End:  
-
 <img alt="Java" src="https://img.shields.io/badge/-Java-43B7BA?style=flat-square&logoColor=%43B7BA" />
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=%23fff" />
 <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=%23fff" />
@@ -60,10 +53,6 @@ Back End:
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=%23fff" />
 <img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=%23fff" />
 <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=%23fff" />
-<br/><br/>
-
-Ops:
-
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=%23fff" />
 <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=%23fff" />
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=%23fff" />
@@ -73,7 +62,6 @@ Ops:
 <img alt="GitLab" src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=%23fff" />
 <img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&logoColor=%23fff" />
 <img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=%23fff" />
-
 </div>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
