@@ -49,6 +49,7 @@ Although it’s hard to list everything, here’s a peek at the tools and techno
 <img alt="GORM" src="https://img.shields.io/badge/-GORM-38b6ff?style=flat-square&logoColor=%23fff" />
 <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=%23fff" />
+<img alt="Drizzle" src="https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=Drizzle&logoColor=%23fff" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=%23fff" />
 <img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=%23fff" />
