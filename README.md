@@ -64,8 +64,8 @@ Although it’s hard to list everything, here’s a peek at the tools and techno
 <img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&logoColor=%23fff" />
 <img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=%23fff" />
 </div>
-<br>
+<!-- <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHURGR&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
-</a>
+</a> -->
 
