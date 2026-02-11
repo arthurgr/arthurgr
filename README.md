@@ -35,10 +35,6 @@ Although it’s hard to list everything, here’s a peek at the tools and techno
 <img alt="Mock Service Worker" src="https://img.shields.io/badge/-MobX-FF7102?style=flat-square&logo=mobx&logoColor=fff" />
 <img alt="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=%23fff" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-<img alt="Storybook" src="https://img.shields.io/badge/-Storybook-09B3AF?style=flat-square&logo=storybook&logoColor=%23fff" />
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=fff" />
-<img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-%230170FE?style=flat-square&logo=antdesign&logoColor=%23fff" />
-<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-%23757575?style=flat-square&logo=materialdesign&logoColor=%23fff" />
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=%23fff" />
 <img alt="Java" src="https://img.shields.io/badge/Java-43B7BA?style=flat-square&logo=java&logoColor=%43B7BA" />
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=%23fff" />
@@ -65,6 +61,10 @@ Although it’s hard to list everything, here’s a peek at the tools and techno
 <img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=%23fff" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=%23fff" />
 <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat-square&logo=adobeillustrator&logoColor=%23fff" />
+<img alt="Storybook" src="https://img.shields.io/badge/-Storybook-09B3AF?style=flat-square&logo=storybook&logoColor=%23fff" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=fff" />
+<img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-%230170FE?style=flat-square&logo=antdesign&logoColor=%23fff" />
+<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-%23757575?style=flat-square&logo=materialdesign&logoColor=%23fff" />
 </div>
 <!-- <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
