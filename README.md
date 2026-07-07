@@ -20,6 +20,7 @@ I thrive at creating applications that scale seamlessly with robust functionalit
 
 Visit my personal website for my latest blog posts and updates on whats new: http://arthur-revelski.com
 
+<!-- 
 Although it’s hard to list everything, here’s a peek at the tools and technologies I love working with:
 
 <div>
@@ -66,7 +67,7 @@ Although it’s hard to list everything, here’s a peek at the tools and techno
 <img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-%230170FE?style=flat-square&logo=antdesign&logoColor=%23fff" />
 <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-%23757575?style=flat-square&logo=materialdesign&logoColor=%23fff" />
 </div>
-<!-- <br>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHURGR&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
 </a> -->
